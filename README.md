@@ -1,4 +1,4 @@
-👋 Hi, I'm Sanjay — a passionate Developer & Designer with a focus on Frappe and ERPNext.
+👋 Hi, I'm Sanjay — a passionate Developer & Designer.
 
 I specialize in building custom applications using the Frappe framework and ERPNext, delivering efficient, user-friendly solutions tailored to real-world needs. With a strong command of Python, SQL, Javascript, Typescript and React, I seamlessly blend functionality with design to bring ideas to life. 🚀
 
